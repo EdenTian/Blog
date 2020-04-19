@@ -3,7 +3,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/image/photo.png' }]
   ],
-  base:'/Blog'
+  base:'/Blog',
   themeConfig: {
     lastUpdated: true,
     nextLinks: true,
